@@ -1,0 +1,1 @@
+window.CAFE_CFG = "c1.310000.JHtcRzlajno6X4RxK5se4w.Vdmo3IRsqTQmF58T.MclaL1I6WlHJSjZWbabAdQ48rtxeuanwqpi
